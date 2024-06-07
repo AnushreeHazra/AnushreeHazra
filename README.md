@@ -7,9 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anushree hazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anushree hazra" height="30" width="40" /></a>
-<a href="https://kaggle.com/anushreehazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anushreehazra" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anushreehazra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushreehazra" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anushree-hazra-088b52224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anushree-hazra-088b52224/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/anushree2702" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anushree2702" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
